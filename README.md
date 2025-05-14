@@ -21,7 +21,7 @@ This is a script for FiveM that allows your to open/close your Trunk with a conf
 
 
 ## Installing
-1. [Download The Trunk](#) **<- Download link**
+1. [Download The Trunk](https://github.com/EditnameOG/theTrunk/archive/refs/heads/main.zip) **<- Download link**
 2. Edit Line 3 & 4 in the trunk.lua file to change keybinds.
 3. Upload to your resource folder.
 4. Add `start thetrunk` to your server.cfg
